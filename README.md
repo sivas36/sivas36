@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @sivas36
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+Welcome to my page!
+I'm Siva Kumar, Fullstack developer.
 
 
 
-<!---
-sivas36/sivas36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 Cool Stats
+sivas36's GitHub stats
+
+GitHub Streak
+
+Top Langs
+
+Connect with me ❤️
+sivakumar 
